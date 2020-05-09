@@ -1,0 +1,10 @@
+name: "dummy_api"
+publish_to: ""
+
+dependencies:
+  angel_framework: ^2.1.1
+  angel_hot: ^2.0.6
+  dio: ^3.0.9
+  postgres: ^2.1.1
+
+ 
